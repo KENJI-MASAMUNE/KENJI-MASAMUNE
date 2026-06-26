@@ -10,7 +10,7 @@ I'm a final-year Honours student specialising in artificial intelligence and sof
 
 ### API Threat Assessment Tool *(Capstone)*
 Scans APIs for the OWASP Top 10 vulnerabilities and provides actionable feedback on identified issues and remediation steps.  
-`[View repository →](https://github.com/KENJI-MASAMUNE/API-Threat-Assessment-Tool)`
+https://github.com/KENJI-MASAMUNE/API-Threat-Assessment-Tool)
 
 ### 2D City Tycoon Game
 A city-building game built in C++ applying software design patterns (Strategy, Factory, Observer) and game development principles. Features city planning, resource management, and a custom UI system.  
