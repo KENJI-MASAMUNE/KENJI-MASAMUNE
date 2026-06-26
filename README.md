@@ -10,15 +10,15 @@ I'm a final-year Honours student specialising in artificial intelligence and sof
 
 ### API Threat Assessment Tool *(Capstone)*
 Scans APIs for the OWASP Top 10 vulnerabilities and provides actionable feedback on identified issues and remediation steps.  
-https://github.com/KENJI-MASAMUNE/API-Threat-Assessment-Tool)
+https://github.com/KENJI-MASAMUNE/API-Threat-Assessment-Tool
 
 ### 2D City Tycoon Game
 A city-building game built in C++ applying software design patterns (Strategy, Factory, Observer) and game development principles. Features city planning, resource management, and a custom UI system.  
-`[View repository →](https://github.com/HenruMatthis/COS-214-Project)`
+https://github.com/HenruMatthis/COS-214-Project
 
 ### 3D Graphics Engine
 A 3D scene of my university campus cafeteria, including SHREK as your personal waiter. Made with OPENGL and blender.
-`[View repository →](https://github.com/KENJI-MASAMUNE/GraphicsHW)`
+https://github.com/KENJI-MASAMUNE/GraphicsHW
 
 ### Image Processing in x86-64 Assembly
 Implements histogram equalisation on PPM images entirely in x86-64 assembly language — demonstrating proficiency in low-level memory management and bitwise operations.  
